@@ -1,0 +1,88 @@
+body {
+  background-color:darkcyan;
+}
+h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+
+}
+h1,h3 {
+  font-family: cursive;
+  text-align: center;
+}
+h3 {
+  text-decoration: underline
+}
+.laptop {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.richard {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 230px;
+  height: 200px;
+  border-radius: 50%;
+}
+.contactme {
+  text-align: center;
+}
+.skills {
+  line-height: 1.6;
+}
+ .btn {
+
+  margin-left: 45%;
+  margin-top: 20px;
+  height: 40px;
+  width: 120px;
+  background-color:chartreuse;
+  
+
+}
+footer {
+  background-color: bisque;
+  height: 150px;
+  text-align: center;
+ font-size: 1.2em;
+  
+ }
+.link {
+color: #0077b5;
+margin: 20px;
+
+}
+.twitter {
+  color: #1DA1F2;
+  
+  
+}
+.contact  {
+  align-items: center;
+background-color:blue;
+width: 120px;
+height: 40px;
+font-size: 1.0em;
+font-weight: 900;
+margin-left: 550px;
+border-radius: 20px;
+}
+a {
+  font-size: 1.0em;
+  color: #000;
+}
+h5, a{
+  text-decoration: none;
+  font-family: cursive;
+}
+p {
+  text-align: center;
+  font-size: 1.2em;
+}
+iframe {
+  margin-left: 450px;
+}
